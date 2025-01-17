@@ -38,4 +38,5 @@ build/
 .DS_Store
 
 ### Mine ###
-src/main/java/org/miu/lab1/ 
+src/main/java/org/miu/lab1/
+src/main/java/org/miu/lab2/

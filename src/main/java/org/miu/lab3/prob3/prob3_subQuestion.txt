@@ -1,0 +1,5 @@
+Does it make sense to use inheritance here? Explain.
+
+Answer:
+No. An "is-a" relationship must satisfy Liskov's substitution rule. However, we cannot say the subclass
+Circle is a Cylinder. This makes inheritance not the best choice.
